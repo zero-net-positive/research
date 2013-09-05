@@ -38,11 +38,12 @@ small and agile, and each very focused on their particular mission. These will l
 market, and successful ones will spawn new nodes in the network.
 
 One benefit of larger companies is the building of a brand, but we believe we could achieve the same 
-thing with the network. There are already brands like '4G LTE', 'Sunkist', 'Ace Hardware', 'Visa' 
-and many more that are made of up different entities in a variety of structures. Each business function 
-could potentially be its own Pay It Forward corporation – different organizations that do sales, 
-marketing, program management, design and development, all with an aligned mission to build products 
-for an open hospital records infrastructure.
+thing with the network. There are already brands like [4G LTE](http://en.wikipedia.org/wiki/3GPP_Long_Term_Evolution), 
+[Sunkist](http://www.sunkist.com/about/cooperative.aspx), [True Value Hardware](http://truevaluecompany.com/about_true_value/company-overview.asp), 
+[OpenStack](http://www.openstack.org/foundation/) and many more that are made of up different entities 
+in a variety of structures. Each business function could potentially be its own Pay It Forward corporation 
+– different organizations that do sales, marketing, program management, design and development, all with 
+an aligned mission to build products for an open hospital records infrastructure.
 
 We are just getting started, looking for organizations that are up for experimentation and allies to join 
 us in thinking through issues and finding capital to start and sustain some prototype Pay It Forward 
