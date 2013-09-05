@@ -47,5 +47,5 @@ an aligned mission to build products for an open hospital records infrastructure
 
 We are just getting started, looking for organizations that are up for experimentation and allies to join 
 us in thinking through issues and finding capital to start and sustain some prototype Pay It Forward 
-Corporations. Join us in the Zero Net Positive Initiative as we work on this and related ideas to hack 
-our system to better outcomes.
+Corporations. Join us in the [Zero Net Positive Initiative](http://zeronetpositive.org) as we work on this 
+and related ideas to hack our system to better outcomes.
