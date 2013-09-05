@@ -10,10 +10,11 @@ of continually seeking grants and donations.
 The 'Pay It Forward' corp aims to instantiate the social business principles into open, freely 
 available, 'forkable' legal documents that can be used to incorporate in specific jurisdictions 
 (initially the US, but hopefully expanding). While Yunus has focused more on large, slow growth 
-businesses our backgrounds are in technology. The Pay It Forward corp will be built with higher 
-growth technology business in mind.
+businesses our backgrounds are in technology. The Pay It Forward corp will initially be built with 
+higher growth technology businesses in mind.
 
-The core of the model is that everyone involved agrees to pay forward any financial returns from 
+The core of the model is that everyone involved agrees to [pay forward](http://en.wikipedia.org/wiki/Pay_it_forward) 
+any financial returns from 
 ownership. The entrepreneur has an idea that has a social benefit and can be successful in the 
 market. She creates shares and distributes those to early employees and investors. She and everyone 
 who directly works for the company can make great salaries and bonuses if successful, with total 
@@ -21,21 +22,22 @@ compensation packages competing with startups and huge corporations. But the 'pa
 are not part of that monetary compensation – they can only be used to invest in other Pay It Forward 
 corps. The initial investor and entrepreneur will likely continue to reinvest in other entities that 
 complement the mission. Individuals might build up a good amount of Pay It Forward capital in one job 
-to be able to start their own Pay It Forward corp focused on something their more passionate about.
+to be able to start their own Pay It Forward corp focused on something they are more passionate about.
 
 We see the biggest potential for the model in sectors where government control and full privatization 
 have both failed to achieve the best outcomes for society. Health care, education, government services 
 and infrastructure all could be better served by market-driven organizations that solely define their 
-success by their impact, not their bottom line. We believe the structure is a natural fit for 
+success by their impact, not their bottom line. We believe the structure is also a natural fit for 
 organizations building commons-based peer produced products like open source software and open data.
 
 A core feature of Pay It Forward corporations will be their focus. The mission must be narrowly 
 defined and measurable. Economies of scale will be achieved by networks of Pay It Forward companies 
-coordinating towards similar ends. When one experiences success and mission creep instead of starting
-a new division it will spawn a new entity, retaining its Pay It Forward shares to continue to 
-fulfill its mission. Through this we see arising networks of aligned organizations that are each 
-small and agile, and each very focused on their particular mission. These will live and die in the 
-market, and successful ones will spawn new nodes in the network.
+coordinating towards similar ends. When one experiences success they will start a new entity with its
+own focused mission instead of just adding another division that can lead to mission creep.
+The successful organization will spin off people and capital in to the new entity, but will retain
+its own Pay It Forward shares to continue to fulfill its mission. Through this we see arising networks 
+of aligned organizations that are each small and agile, and each very focused on their particular mission. 
+These will live and die in the market, and successful ones will spawn new nodes in the network.
 
 One benefit of larger companies is the building of a brand, but we believe we could achieve the same 
 thing with the network. There are already brands like [4G LTE](http://en.wikipedia.org/wiki/3GPP_Long_Term_Evolution), 
@@ -43,9 +45,9 @@ thing with the network. There are already brands like [4G LTE](http://en.wikiped
 [OpenStack](http://www.openstack.org/foundation/) and many more that are made of up different entities 
 in a variety of structures. Each business function could potentially be its own Pay It Forward corporation 
 – different organizations that do sales, marketing, program management, design and development, all with 
-an aligned mission to build products for an open hospital records infrastructure.
+an aligned mission, for example to build products for an open hospital records infrastructure.
 
 We are just getting started, looking for organizations that are up for experimentation and allies to join 
-us in thinking through issues and finding capital to start and sustain some prototype Pay It Forward 
+us in going from idea to reality. We hope to eventually find capital to start and sustain some prototype Pay It Forward 
 Corporations. Join us in the [Zero Net Positive Initiative](http://zeronetpositive.org) as we work on this 
 and related ideas to hack our system to better outcomes.
