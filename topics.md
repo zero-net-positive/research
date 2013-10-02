@@ -13,3 +13,14 @@ Several initial topics emerged from our initial meeting in Costa Rica:
 * 'Human capital' / Management innovation - how do we build more conscious individuals? 'super hr', workplace democracy ideas, etc.
 
 * Financing - kickstarter, jobs act, family and friends, control
+
+
+Some additional sources of inspiration, to explore and organize in to topics:
+
+* [B-Labs](http://benefitcorp.net/about-b-lab) and their work on b-corp and [benefit corporation](http://benefitcorp.net/).
+
+* Valve's [handbook](http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf), and their cool structure.
+
+* Semco's workplace democracy innovations, as detailed in [Maverick](http://en.wikipedia.org/wiki/Maverick_(book)
+
+
