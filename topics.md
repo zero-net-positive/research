@@ -23,4 +23,6 @@ Some additional sources of inspiration, to explore and organize in to topics:
 
 * Semco's workplace democracy innovations, as detailed in [Maverick](http://en.wikipedia.org/wiki/Maverick_(book)
 
+* Whole food's articulation of values, like the [Declaration of Interdependence](http://www.wholefoodsmarket.com/mission-values/core-values/declaration-interdependence).
+
 
