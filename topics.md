@@ -8,7 +8,7 @@ Several initial topics emerged from our initial meeting in Costa Rica:
 
 * Corporate structures - b-corps, flexible purpose corps, l3c, hybrids, coops, pay it forward corporation
 
-* Governance structures - supervotes, kamikaze clauses, contracts to do good
+* Governance structures - supervotes, kamikaze clauses, planned sunsetting, size limits, contracts to do good
 
 * 'Human capital' / Management innovation - how do we build more conscious individuals? 'super hr', workplace democracy ideas, etc.
 
