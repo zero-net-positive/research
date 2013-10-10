@@ -11,6 +11,6 @@ legislitation or lobby governments. We want to use the existing legal structures
 to more positive ends than just making money.
 
 This project is open for anyone to join, as we research what's come before and build up a knowledge base for
-purpose-driven companies. It hopefully builds in to a reference of all they ways people are trying to make
+purpose-driven companies. It hopefully builds in to a reference of all the ways people are trying to make
 their companies make a better world. And a place where new techniques can incubate and launch, in a network
 of like-minded individuals.
