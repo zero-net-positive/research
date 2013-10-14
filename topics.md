@@ -27,7 +27,7 @@ positive vector of progress. What meta-institutions will help work towards our g
 for organizations to communicate their values, and ‘guilds’, as cross-organization career development organizations.
 B-Labs and Muhummad Yunus's Social Business work are two leaders in this area.
 
-**Semantics / Branding** - How do we present our research in ways it can be understood, and easy to spread? 
+**'Branding'** - Or 'semantics'. How do we present our research in ways it can be understood, and easy to spread? 
 How do we talk about it and position it, what names do we put on things? How does that fit in to the current global
 dialog? This topic will examine the words we use to talk about the concepts we care about. Profit, capital, corporation,
 purpose, etc. Do we try to 'reclaim' terms, or bring new ones in to play?
