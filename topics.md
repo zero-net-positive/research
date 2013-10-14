@@ -9,7 +9,7 @@ to all aspects of how companies function internally, including big ideas like wo
 purpose-driven culture. But it will also compile many small tactics to help people relate to their work more
 positively, like ending meetings with 'thanks', more holistic reviews, transparency in compensation, etc.
 
-**Governance Structures** – At the intersection of the two above is how the day-to-day and the culture interact with 
+**Governance** – At the intersection of the two above is how the day-to-day and the culture interact with 
 the big legal structures. How do we get maximum accountability and balance of power? How can we scale culture, 
 turning informal innovations in to flexible institutional practices? Topics include supervotes towards a purpose, 
 kamikaze clauses, planned sunsetting, size limits, voting trusts and contracted relationships that serve a mission. And
@@ -27,7 +27,7 @@ positive vector of progress. What meta-institutions will help work towards our g
 for organizations to communicate their values, and ‘guilds’, as cross-organization career development organizations.
 B-Labs and Muhummad Yunus's Social Business work are two leaders in this area.
 
-**Semantics/'Branding'** - How do we present our research in ways it can be understood, and easy to spread? 
+**Semantics / Branding** - How do we present our research in ways it can be understood, and easy to spread? 
 How do we talk about it and position it, what names do we put on things? How does that fit in to the current global
 dialog? This topic will examine the words we use to talk about the concepts we care about. Profit, capital, corporation,
 purpose, etc. Do we try to 'reclaim' terms, or bring new ones in to play?
