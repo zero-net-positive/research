@@ -5,7 +5,8 @@ survey who is working to spread the ideas in society, and work on new ideas to h
 
 
 ‘Badges’ - An idea we discussed a lot at the ZNP Advance. Let organizations self identify the values they hold,
-but have a consistent way to make that identification and create new groups.
+but have a consistent way to make that identification and create new groups. More on this in our [advance 
+notes](https://github.com/zero-net-positive/choza-advance/blob/master/advance_notes.md#more-on-the-network-of-networks-or-the-meta-network)
 
 ‘Guilds’ -  Cross-organization career development organizations. Much to be explored here, but people jump jobs
 and don't just work for a big company that plans their training and career advancement. How can we offer an 
