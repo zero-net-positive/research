@@ -28,3 +28,6 @@ the mission of the company as their first goal, not maximizing profit.
 
 Commitments to donate profits - Like Salesforce's [1-1-1](http://blog.zeronetpositive.org/2013/hybrid-organizations/) and
 Google's 1% to Google.org
+
+Mission statements and beyond, like Whole Food's [Declaration of Interdependence](http://www.wholefoodsmarket.com/mission-values/core-values/declaration-interdependence).
+
