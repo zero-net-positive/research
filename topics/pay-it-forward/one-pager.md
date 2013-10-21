@@ -1,4 +1,4 @@
-The 'Pay It Forward' Corporation is an idea for a company structure that aims to sequester 
+The 'Pay It Forward' business is an idea for a company structure that aims to sequester 
 capital into an ecosystem for social good. It builds on Muhammed Yunus's concept of a 
 [Social Business](http://www.yunussb.com/social-business/), which has a social mission like 
 an NGO but covers its costs like a business. In his model investors can recoup their original 
@@ -7,10 +7,10 @@ are entirely about the 'impact'. The only bottom line is the good the organizati
 achieving its mission. But it generates its own revenue by competing in the market, instead 
 of continually seeking grants and donations.
 
-The 'Pay It Forward' corp aims to instantiate the social business principles into open, freely 
+The 'Pay It Forward' business aims to instantiate the social business principles into open, freely 
 available, 'forkable' legal documents that can be used to incorporate in specific jurisdictions 
 (initially the US, but hopefully expanding). While Yunus has focused more on large, slow growth 
-businesses our backgrounds are in technology. The Pay It Forward corp will initially be built with 
+businesses our backgrounds are in technology. The Pay It Forward business structure will initially be built with 
 higher growth technology businesses in mind.
 
 The core of the model is that everyone involved agrees to [pay forward](http://en.wikipedia.org/wiki/Pay_it_forward) 
@@ -30,7 +30,7 @@ and infrastructure all could be better served by market-driven organizations tha
 success by their impact, not their bottom line. We believe the structure is also a natural fit for 
 organizations building commons-based peer produced products like open source software and open data.
 
-A core feature of Pay It Forward corporations will be their focus. The mission must be narrowly 
+A core feature of Pay It Forward businesses will be their focus. The mission must be narrowly 
 defined and measurable. Economies of scale will be achieved by networks of Pay It Forward companies 
 coordinating towards similar ends. When one experiences success they will start a new entity with its
 own focused mission instead of just adding another division that can lead to mission creep.
@@ -49,5 +49,5 @@ an aligned mission, for example to build products for an open hospital records i
 
 We are just getting started, looking for organizations that are up for experimentation and allies to join 
 us in going from idea to reality. We hope to eventually find capital to start and sustain some prototype Pay It Forward 
-Corporations. Join us in the [Zero Net Positive Initiative](http://zeronetpositive.org) as we work on this 
+businesses. Join us in the [Zero Net Positive Initiative](http://zeronetpositive.org) as we work on this 
 and related ideas to hack our system to better outcomes.
